@@ -1,7 +1,9 @@
 # **Documentación Prueba técnica**
 > Este es un documento de referencia  rápida de como inicializar este proyecto al clonar el mismo para su validación, támbien describe como se preparo la base personalizada de React sobre la que se basa el desarrollo de la prueba.
 
-## **Se Requiere actualizar **
+## **Se Requiere actualizar Sass con archivos custom**
+> El enfoque que le doy al proyecto es el de combinar Bootstrap, que es parte del requerimiento, junto con Sass, es necesario cambiar el contenido en _variables.scss y _button.scss dentro de node_modules en el directorio bootstrap para que tome los botones y los colores del tema editados para manejar la paleta del proyecto por medio de bootstrap.
+
 > 
 ___
 
