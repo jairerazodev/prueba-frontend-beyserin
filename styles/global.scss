@@ -1,0 +1,29 @@
+@use "~bootstrap/scss/bootstrap";
+
+$background-color: #f7faff;
+
+body {
+    background-color: $background-color;
+}
+
+header {
+    width: 280px;
+}
+
+main {
+    width: 280px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px !important;
+    margin: 0 auto;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

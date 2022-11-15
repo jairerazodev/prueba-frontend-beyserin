@@ -1,0 +1,46 @@
+{
+  "name": "prueba-frontend-beyserin",
+  "version": "1.0.0",
+  "description": "Prueba de desarrollo frontend para beyserin Consulting",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Jair Erazo <jair.erazo.dev@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jairerazodev/prueba-frontend-beyserin/issues"
+  },
+  "homepage": "https://github.com/jairerazodev/prueba-frontend-beyserin#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "bootstrap": "^5.2.2",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "2.6.0",
+    "react-dom": "^17.0.2",
+    "react-number-format": "^5.1.1",
+    "react-router-dom": "^5.2.0",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.1",
+    "postcss-loader": "^7.0.1",
+    "sass": "^1.56.1",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1"
+  }
+}
