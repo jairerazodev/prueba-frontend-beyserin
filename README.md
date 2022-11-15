@@ -1,6 +1,8 @@
 # **Documentación Prueba técnica**
 > Este es un documento de referencia  rápida de como inicializar este proyecto al clonar el mismo para su validación, támbien describe como se preparo la base personalizada de React sobre la que se basa el desarrollo de la prueba.
 
+## **Se Requiere actualizar **
+> 
 ___
 
 ## **Inicializar entorno de desarrollo**
